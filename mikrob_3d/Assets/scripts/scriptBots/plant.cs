@@ -9,7 +9,7 @@ public class plant : MonoBehaviour
     public GameObject ygol2;
     public float yPos = 100;
     public GameObject Origin;
-    public int FastSpawn=100;
+    public int FastSpawn=10;
     int i =0;
     float xLeft, xRight, zLeft, zRight;
     void Start()
